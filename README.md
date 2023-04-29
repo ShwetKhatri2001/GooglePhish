@@ -12,7 +12,7 @@
 
 ## 👀 Preview
 
-### [Live Link](https://ar-chairs.netlify.app/)
+### [Live Link](https://shwetkhatri.pythonanywhere.com/)
 
 <hr/>
 
